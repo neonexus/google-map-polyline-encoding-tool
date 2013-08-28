@@ -10,10 +10,5 @@
     ],
     "autoload": {
         "classmap": ["src/Polyline.php"]
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "0.3-dev"
-        }
     }
 }
