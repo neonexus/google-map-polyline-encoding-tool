@@ -1,5 +1,7 @@
 <?php
 
+namespace emcconville\google_map_polyline_encoding_tool;
+
 /**
  * Polyline
  *
